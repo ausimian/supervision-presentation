@@ -49,7 +49,7 @@ and sw-errors.
 
 ### Architecture
 
-Supervision is a pattern build on primitives.
+Supervision is a pattern built on primitives.
 
 <svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
  <g>

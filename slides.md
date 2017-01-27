@@ -188,6 +188,8 @@ Notes:
   
 * Other stuff
 
+---
+
 ### Static Strategies
 
 * One-for-one
